@@ -1,11 +1,16 @@
+<div align="right">
+  
 [![](https://visitcount.itsvg.in/api?id=MaheshYoganandan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
 ![Intro](https://github.com/user-attachments/assets/d518d3db-4239-4b54-aeb1-7980db55eb3a)
 
-
+### More about me:
 - 🌱 I'm currently learning Machine Learning.
 - ❤️ I love to play with data, read books, watch series.
 - 📄 Check out my [resume]()
-- ⚡️Fun fact: Solved 400+ SQL Queries
+- ⚡️Fun fact: Solved 500+ SQL Queries
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/maheshyoganandan/) 
 
 
@@ -43,6 +48,16 @@
 | Credit Card Analysis | <img height="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <!-- VScode logo --> &nbsp; <img height="30" src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000"> <!-- Kaggle logo --> &nbsp; <img height="40" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> <!-- mysql logo --> | [Click Here](https://github.com/MaheshYoganandan/SQL_Projects/blob/main/credit-card-analysis-sql-project/README.md) |
 | Hospital Recent Performance | <img height="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <!-- VScode logo --> &nbsp; <img height="30" src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000"> <!-- Kaggle logo --> &nbsp; <img height="40" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> <!-- mysql logo --> | [Click Here](https://github.com/MaheshYoganandan/SQL_Projects/tree/main/Massachusetts-general-hsp-sql-project/README.md) |
 | Olympic History Analysis | <img height="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <!-- VScode logo --> &nbsp; <img height="30" src="https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000"> <!-- Kaggle logo --> &nbsp; <img height="40" src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"> <!-- mysql logo --> | [Click Here](https://github.com/MaheshYoganandan/SQL_Projects/tree/main/olympics_history_analysis_sql_creative_project_/README.md) |
+
+
+
+
+#### Python Projects 
+
+| Title | Tools | Project Link |
+|----------|----------|----------|
+| E-commerce Retail Data Analysis | <img height="30" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> <!-- Python logo --> &nbsp; <img height="30" src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"> <!-- Pandas logo --> &nbsp; <img height="30" src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"> <!-- Numpy logo --> &nbsp; <img height="30" src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000"> <!-- Jupyter logo --> &nbsp; <img height="30" src="https://matplotlib.org/_static/images/documentation.svg"> <!-- matplotlib logo --> &nbsp; | [Click Here](https://github.com/MaheshYoganandan/Python_Projects/blob/main/python-retail-data-analysis-project/README.md) |
+
 
 
 
