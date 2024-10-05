@@ -9,7 +9,7 @@
 ### More about me:
 - 🌱 I'm currently learning Machine Learning.
 - ❤️ I love to play with data, read books, watch series.
-- 📄 Check out my [Resume](https://github.com/user-attachments/files/16825979/Resume.pdf)
+- 📄 Check out my [Resume](https://github.com/user-attachments/files/17266178/web_resume_final.pdf)
 - ⚡️Fun fact: Solved 500+ SQL Queries
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/maheshyoganandan/)
 - 🌐 Check out my [Website](https://maheshportoliowebsite.netlify.app/)
